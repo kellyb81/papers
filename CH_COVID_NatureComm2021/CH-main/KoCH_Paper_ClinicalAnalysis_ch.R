@@ -19,8 +19,8 @@ library(ztable)
 library(reshape2)
 library(sjPlot)
 
-#Load the helper R script from MSK to harmonize the the analysis
-source("toolbox_msk.R")
+#Load the helper R script to harmonize the the analysis
+source("toolbox.R")
 
 #Load the master data file
 #### input data ####
